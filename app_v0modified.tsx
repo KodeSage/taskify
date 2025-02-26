@@ -127,7 +127,10 @@ function App() {
       })
     }
 
-    await saveTask()
+  await saveTask({
+    ...todo,
+    updatedAt: Date.now(), // Update the timestamp
+  });
     resetTask()
   }
 
