@@ -8,7 +8,6 @@ A TypeScript React application that demonstrates the capabilities of the Firepro
 - **Prioritization**: Set and change task priorities (High, Medium, Low) with visual indicators
 - **Filtering & Sorting**: Organize tasks by status, priority, and due date
 - **Local-First Storage**: All data persists in the browser using Fireproof
-- **Statistics Dashboard**: Track your productivity with real-time metrics
 - **Data Export**: Export your task data as JSON for backup or transfer
 
 ## Getting Started
