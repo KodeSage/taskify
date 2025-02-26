@@ -176,7 +176,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
       <header className="bg-white dark:bg-gray-800 shadow-md py-6">
         <div className="container mx-auto px-4">
-          <div className="flex flex-col md:flex-row justify-between items-center">
+          <div className="flex flex-row justify-between items-center">
             <div className="flex items-center mb-4 md:mb-0">
               <div className="bg-gradient-to-r from-purple-600 to-pink-500 p-2 rounded-lg mr-3">
                 <CheckCircle2 className="h-6 w-6 text-white" />
