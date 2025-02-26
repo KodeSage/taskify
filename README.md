@@ -1,6 +1,6 @@
 # Taskify
 
-A TypeScript React application that demonstrates the capabilities of the Fireproof local-first database. This task manager app provides robust task management features with prioritization and reminder functionalities, all powered by Fireproof for persistent storage without requiring a backend.
+A TypeScript React application that demonstrates the capabilities of the Fireproof local-first database. This task manager app provides robust task management features with prioritization functionalities, all powered by Fireproof for persistent storage without requiring a backend.
 
 ## Features
 
