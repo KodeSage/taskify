@@ -64,5 +64,9 @@ The key Fireproof integration points are:
 - Working with indexes for optimized data access
 
 
+## VO Fork Version 
+https://v0.dev/chat/taskify-JAkTJWX8vH7?b=b_Jl9ZgX2uaYi
+
+
 
 Created with ❤️ using Fireproof - The local-first database for web applications.
