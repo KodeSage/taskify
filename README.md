@@ -46,6 +46,20 @@ A TypeScript React application that demonstrates the capabilities of the [Firepr
 4. Open your browser to `http://localhost:3000`
 
 
+## ScreenShots 
+
+**Overview of the App**
+<img width="1354" alt="Screenshot 2025-02-27 at 13 07 23" src="https://github.com/user-attachments/assets/b379ab61-b923-4e20-96ac-3dd566792417" />
+<br />
+
+**Task List**
+<img width="1026" alt="Screenshot 2025-02-27 at 13 39 23" src="https://github.com/user-attachments/assets/8f7cc182-d59d-49d4-9922-0d60bb0ffef4" />
+
+
+<img width="709" alt="Screenshot 2025-02-27 at 13 37 22" src="https://github.com/user-attachments/assets/4b4acda1-8362-44a1-a8da-7e7b375f8547" />
+<br />
+
+
 
 ## How It Uses Fireproof
 
@@ -64,8 +78,10 @@ The key Fireproof integration points are:
 - Working with indexes for optimized data access
 
 
+
 ## VO Fork Version 
 https://v0.dev/chat/taskify-JAkTJWX8vH7?b=b_Jl9ZgX2uaYi
+
 
 
 
