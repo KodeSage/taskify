@@ -77,7 +77,8 @@ The key Fireproof integration points are:
 - Setting up change listeners for real-time updates
 - Working with indexes for optimized data access
 
-
+### Random Task Generator
+https://chatgpt.com/share/67c092b1-140c-8001-a81d-f9500574e429
 
 ## VO Fork Version 
 https://v0.dev/chat/taskify-JAkTJWX8vH7?b=b_Jl9ZgX2uaYi
